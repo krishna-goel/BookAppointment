@@ -1,0 +1,303 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ef6e78e34711945a6559d5ee30b6c7e1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\bc856f30f502e05cb01d02ff0e5d5f2e\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\a64175f9e086e52d6914dfb78caffec1\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-gesture-handler] C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\Krishna Goel\.gradle\caches\transforms-3\16b4af877e4d48197ad5cdb4b7570800\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\162c248d7ea33b88940c2f445c7af96e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\Krishna Goel\.gradle\caches\transforms-3\62d67dbd30954ba064b633aeaed7502c\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\767c315d57297f17f02f3cd5901eff27\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ca38cdd997be839a49f1967312b8340d\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3193c8671a96b3208c0cf8ee0ad82500\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\33ae4886feaec9fe3f1e291ce3cbfc90\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\c7e85458c148a3ab5f98717811088fcb\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\046e01788e87b16cddec58428bd80391\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ee34209de991dca8c1035d9eae75c9b3\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\9c2bb85211d05647f2fbfd41d9ba3672\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\941e5c82a453538fce031f724afa7f37\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\f943b2f9ea6997008a2d5442e1ffe32b\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Krishna Goel\.gradle\caches\transforms-3\aa42bca550e3f4bcb8ab77c5f6419569\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\196c2efca3b8a5fca404ab3a657eb47a\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\1c7e1468ae11aaecbb79d34da7690024\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\d57d022530af9f61bd484fdcc32c7ba0\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\7d5dc71481d5d07720ebea113a510a33\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3edd8f1309f9506ab8ced05bd3c2e0f8\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\46ced0f0bd722c5511712d39a348712c\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\1f9f5fa0b1d89afaaac09f7def6e95cb\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\bee157d07a39f9f3574ee9bc8d473469\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\af1926028932ad597436d1bac5644a8b\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\72040b8d6a6da6ca7c52028a2491b964\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\10020c69d3bfea8b237e1118eceab4fe\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\7fe01eeab4d380fa24ebc07972704dea\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\fc5704f642ea48cba93b3aa79acfacc4\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\1fab6ed4723b54b470f03997ea38dddf\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\fd8aa8a6e1a54267c9c99af50054ff33\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\2a9678b6221662073649e6acc9429b1d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Krishna Goel\.gradle\caches\transforms-3\77a6b6ecb47b51da3507eae831176955\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\0c596755a7bc77be80be9f769bd61906\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Krishna Goel\.gradle\caches\transforms-3\e0671f1e2bb87fb6425641d60d4bf744\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\06c00459306b6152c7d80e61fdd24817\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\66e8ce59134fc92d68b0031e5071b702\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3b7f759684d5a5430be1213339ccc965\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ec50ca911309d6fd45a4e26cf3f42ce6\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\f399649ede168f761a37c9e3f044bef4\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\1d463f52bb604d0d1cce3cd25b435a6b\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\530976e1a5d2a93a1cf0943d894d09e3\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\72dbd5e054e795d8c9731ed3c6273939\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\e41e017a0bd0d0fdd037b71039934b6f\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\4ca7e923496b21939809618c4c10ab83\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\7c4ceb705af79687e6d466782533eee5\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\5b0e7486f9fd87015831109882685894\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\2b8246d5b6596ec8194417396798e4ce\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\c97c959b4b16efea7fecb8ffd414bdee\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3c7826b892042a3093aeb24a2b03a104\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ab1dcf1db28d9843b0cb0597e463cbda\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\bd3c5dfdfeab93334b0a5086c111f1f5\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\6e019cd8cdc0de03b86e406b4b6db648\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\413bc7828156414ebcea45ad2d33c0cd\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\44677b4dd9b5b99517841abc436cbc17\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\b6bebad832eed60f280f9b8766a2351a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ef6e78e34711945a6559d5ee30b6c7e1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ef6e78e34711945a6559d5ee30b6c7e1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\Krishna Goel\.gradle\caches\transforms-3\16b4af877e4d48197ad5cdb4b7570800\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\Krishna Goel\.gradle\caches\transforms-3\16b4af877e4d48197ad5cdb4b7570800\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Krishna Goel\.gradle\caches\transforms-3\aa42bca550e3f4bcb8ab77c5f6419569\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Krishna Goel\.gradle\caches\transforms-3\aa42bca550e3f4bcb8ab77c5f6419569\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3edd8f1309f9506ab8ced05bd3c2e0f8\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3edd8f1309f9506ab8ced05bd3c2e0f8\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\4ca7e923496b21939809618c4c10ab83\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\4ca7e923496b21939809618c4c10ab83\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3c7826b892042a3093aeb24a2b03a104\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3c7826b892042a3093aeb24a2b03a104\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\4ca7e923496b21939809618c4c10ab83\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.bookmytimer.MainActivity
+ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:13:7-24:18
+	android:label
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml:22:23-70
+uses-sdk
+INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ef6e78e34711945a6559d5ee30b6c7e1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ef6e78e34711945a6559d5ee30b6c7e1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\bc856f30f502e05cb01d02ff0e5d5f2e\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\bc856f30f502e05cb01d02ff0e5d5f2e\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\a64175f9e086e52d6914dfb78caffec1\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\a64175f9e086e52d6914dfb78caffec1\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-gesture-handler] C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\Krishna Goel\.gradle\caches\transforms-3\16b4af877e4d48197ad5cdb4b7570800\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\Krishna Goel\.gradle\caches\transforms-3\16b4af877e4d48197ad5cdb4b7570800\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\162c248d7ea33b88940c2f445c7af96e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\162c248d7ea33b88940c2f445c7af96e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\Krishna Goel\.gradle\caches\transforms-3\62d67dbd30954ba064b633aeaed7502c\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\Krishna Goel\.gradle\caches\transforms-3\62d67dbd30954ba064b633aeaed7502c\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\767c315d57297f17f02f3cd5901eff27\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\767c315d57297f17f02f3cd5901eff27\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ca38cdd997be839a49f1967312b8340d\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ca38cdd997be839a49f1967312b8340d\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3193c8671a96b3208c0cf8ee0ad82500\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3193c8671a96b3208c0cf8ee0ad82500\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\33ae4886feaec9fe3f1e291ce3cbfc90\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\33ae4886feaec9fe3f1e291ce3cbfc90\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\c7e85458c148a3ab5f98717811088fcb\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\c7e85458c148a3ab5f98717811088fcb\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\046e01788e87b16cddec58428bd80391\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\046e01788e87b16cddec58428bd80391\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ee34209de991dca8c1035d9eae75c9b3\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ee34209de991dca8c1035d9eae75c9b3\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\9c2bb85211d05647f2fbfd41d9ba3672\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\9c2bb85211d05647f2fbfd41d9ba3672\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\941e5c82a453538fce031f724afa7f37\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\941e5c82a453538fce031f724afa7f37\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\f943b2f9ea6997008a2d5442e1ffe32b\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\f943b2f9ea6997008a2d5442e1ffe32b\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Krishna Goel\.gradle\caches\transforms-3\aa42bca550e3f4bcb8ab77c5f6419569\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Krishna Goel\.gradle\caches\transforms-3\aa42bca550e3f4bcb8ab77c5f6419569\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\196c2efca3b8a5fca404ab3a657eb47a\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\196c2efca3b8a5fca404ab3a657eb47a\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\1c7e1468ae11aaecbb79d34da7690024\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\1c7e1468ae11aaecbb79d34da7690024\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\d57d022530af9f61bd484fdcc32c7ba0\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\d57d022530af9f61bd484fdcc32c7ba0\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\7d5dc71481d5d07720ebea113a510a33\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\7d5dc71481d5d07720ebea113a510a33\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3edd8f1309f9506ab8ced05bd3c2e0f8\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3edd8f1309f9506ab8ced05bd3c2e0f8\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\46ced0f0bd722c5511712d39a348712c\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\46ced0f0bd722c5511712d39a348712c\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\1f9f5fa0b1d89afaaac09f7def6e95cb\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\1f9f5fa0b1d89afaaac09f7def6e95cb\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\bee157d07a39f9f3574ee9bc8d473469\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\bee157d07a39f9f3574ee9bc8d473469\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\af1926028932ad597436d1bac5644a8b\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\af1926028932ad597436d1bac5644a8b\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\72040b8d6a6da6ca7c52028a2491b964\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\72040b8d6a6da6ca7c52028a2491b964\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\10020c69d3bfea8b237e1118eceab4fe\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\10020c69d3bfea8b237e1118eceab4fe\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\7fe01eeab4d380fa24ebc07972704dea\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\7fe01eeab4d380fa24ebc07972704dea\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\fc5704f642ea48cba93b3aa79acfacc4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\fc5704f642ea48cba93b3aa79acfacc4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\1fab6ed4723b54b470f03997ea38dddf\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\1fab6ed4723b54b470f03997ea38dddf\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\fd8aa8a6e1a54267c9c99af50054ff33\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\fd8aa8a6e1a54267c9c99af50054ff33\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\2a9678b6221662073649e6acc9429b1d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\2a9678b6221662073649e6acc9429b1d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Krishna Goel\.gradle\caches\transforms-3\77a6b6ecb47b51da3507eae831176955\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Krishna Goel\.gradle\caches\transforms-3\77a6b6ecb47b51da3507eae831176955\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\0c596755a7bc77be80be9f769bd61906\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\0c596755a7bc77be80be9f769bd61906\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Krishna Goel\.gradle\caches\transforms-3\e0671f1e2bb87fb6425641d60d4bf744\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Krishna Goel\.gradle\caches\transforms-3\e0671f1e2bb87fb6425641d60d4bf744\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\06c00459306b6152c7d80e61fdd24817\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\06c00459306b6152c7d80e61fdd24817\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\66e8ce59134fc92d68b0031e5071b702\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\66e8ce59134fc92d68b0031e5071b702\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3b7f759684d5a5430be1213339ccc965\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3b7f759684d5a5430be1213339ccc965\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ec50ca911309d6fd45a4e26cf3f42ce6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ec50ca911309d6fd45a4e26cf3f42ce6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\f399649ede168f761a37c9e3f044bef4\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\f399649ede168f761a37c9e3f044bef4\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\1d463f52bb604d0d1cce3cd25b435a6b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\1d463f52bb604d0d1cce3cd25b435a6b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\530976e1a5d2a93a1cf0943d894d09e3\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\530976e1a5d2a93a1cf0943d894d09e3\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\72dbd5e054e795d8c9731ed3c6273939\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\72dbd5e054e795d8c9731ed3c6273939\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\e41e017a0bd0d0fdd037b71039934b6f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\e41e017a0bd0d0fdd037b71039934b6f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\4ca7e923496b21939809618c4c10ab83\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\4ca7e923496b21939809618c4c10ab83\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\7c4ceb705af79687e6d466782533eee5\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\7c4ceb705af79687e6d466782533eee5\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\5b0e7486f9fd87015831109882685894\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\5b0e7486f9fd87015831109882685894\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\2b8246d5b6596ec8194417396798e4ce\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\2b8246d5b6596ec8194417396798e4ce\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\c97c959b4b16efea7fecb8ffd414bdee\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\c97c959b4b16efea7fecb8ffd414bdee\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3c7826b892042a3093aeb24a2b03a104\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\3c7826b892042a3093aeb24a2b03a104\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ab1dcf1db28d9843b0cb0597e463cbda\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ab1dcf1db28d9843b0cb0597e463cbda\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\bd3c5dfdfeab93334b0a5086c111f1f5\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\bd3c5dfdfeab93334b0a5086c111f1f5\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\6e019cd8cdc0de03b86e406b4b6db648\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Krishna Goel\.gradle\caches\transforms-3\6e019cd8cdc0de03b86e406b4b6db648\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\413bc7828156414ebcea45ad2d33c0cd\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\413bc7828156414ebcea45ad2d33c0cd\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\44677b4dd9b5b99517841abc436cbc17\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\44677b4dd9b5b99517841abc436cbc17\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\b6bebad832eed60f280f9b8766a2351a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\b6bebad832eed60f280f9b8766a2351a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from C:\Users\Krishna Goel\Desktop\appointment\BookMyTimer\android\app\src\debug\AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ef6e78e34711945a6559d5ee30b6c7e1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\ef6e78e34711945a6559d5ee30b6c7e1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
