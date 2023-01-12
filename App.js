@@ -1,17 +1,12 @@
-import { StyleSheet, Text, View } from 'react-native'
-import React from 'react'
-import Router from 'navigation/Router'
-import Login from 'screen/Common/Login'
+import {StyleSheet, Text, View} from 'react-native';
+import React from 'react';
+import Router from 'navigation/Router';
+import Login from 'screen/Common/Login';
 
 const App = () => {
-  return (
-    <View>
-      {/* <Router/> */}
-      <Login/>
-    </View>
-  )
-}
+  return <Router />;
+};
 
-export default App
+export default App;
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({});

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Krishna Goel\\Desktop\\appointment\\BookMyTimer\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
+            "outputFile": "C:\\Users\\Krishna Goel\\Desktop\\BookAppointment\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Krishna Goel\\.gradle\\caches\\transforms-3\\46ced0f0bd722c5511712d39a348712c\\transformed\\appcompat-1.3.0\\res\\values-th\\values-th.xml",
