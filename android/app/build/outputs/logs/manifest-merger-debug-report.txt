@@ -11,6 +11,7 @@ MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\Krishn
 MERGED from [:react-native-gesture-handler] C:\Users\Krishna Goel\Desktop\BookAppointment\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-safe-area-context] C:\Users\Krishna Goel\Desktop\BookAppointment\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] C:\Users\Krishna Goel\Desktop\BookAppointment\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] C:\Users\Krishna Goel\Desktop\BookAppointment\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\Krishna Goel\.gradle\caches\transforms-3\16b4af877e4d48197ad5cdb4b7570800\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\162c248d7ea33b88940c2f445c7af96e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r250230] C:\Users\Krishna Goel\.gradle\caches\transforms-3\62d67dbd30954ba064b633aeaed7502c\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:2:1-11:12
@@ -171,6 +172,8 @@ MERGED from [:react-native-safe-area-context] C:\Users\Krishna Goel\Desktop\Book
 MERGED from [:react-native-safe-area-context] C:\Users\Krishna Goel\Desktop\BookAppointment\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] C:\Users\Krishna Goel\Desktop\BookAppointment\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] C:\Users\Krishna Goel\Desktop\BookAppointment\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\Krishna Goel\Desktop\BookAppointment\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\Krishna Goel\Desktop\BookAppointment\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\Krishna Goel\.gradle\caches\transforms-3\16b4af877e4d48197ad5cdb4b7570800\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\Krishna Goel\.gradle\caches\transforms-3\16b4af877e4d48197ad5cdb4b7570800\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Krishna Goel\.gradle\caches\transforms-3\162c248d7ea33b88940c2f445c7af96e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44

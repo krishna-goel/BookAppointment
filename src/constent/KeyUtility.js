@@ -1,4 +1,5 @@
 export const KeyUtility = {
     LOGIN: 'Login',
-    GETOTP: 'Getotp'
+    GETOTP: 'Getotp',
+    APPOINTMENT: 'Appointment'
 }

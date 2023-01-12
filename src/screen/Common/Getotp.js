@@ -9,15 +9,17 @@ import {
 import React from 'react';
 import {Col, Container, Content, Row} from 'native-base';
 import {KeyUtility} from 'constent/KeyUtility';
+import {Header} from 'components';
 
-const Getotp = () => {
+const Getotp = ({navigation}) => {
   const onLogin = () => {
     console.log('submit');
-    // navigation.navigate(KeyUtility.GETOTP);
+    navigation.navigate(KeyUtility.APPOINTMENT);
   };
 
   return (
     <Container>
+      <Header hasBackButton/>
       <Content style={styles.headingContainer}>
         <Row style={{height: 100, marginHorizontal: 10, marginTop: 10}}>
           <Col size={3}>

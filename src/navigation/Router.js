@@ -5,6 +5,7 @@ import {KeyUtility} from 'constent/KeyUtility';
 import Login from 'common/Login';
 import Getotp from 'common/Getotp';
 import {screenOption} from './screenOption';
+import Appointment from 'screen/Appointment';
 
 const Stack = createNativeStackNavigator();
 
@@ -16,6 +17,7 @@ export default () => {
         screenOptions={screenOption}>
         <Stack.Screen name={KeyUtility.LOGIN} component={Login} />
         <Stack.Screen name={KeyUtility.GETOTP} component={Getotp} />
+        <Stack.Screen name={KeyUtility.APPOINTMENT} component={Appointment} />
       </Stack.Navigator>
     </NavigationContainer>
   );

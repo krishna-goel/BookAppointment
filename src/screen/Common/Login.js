@@ -1,5 +1,7 @@
 import {
+  Appearance,
   Image,
+  StatusBar,
   StyleSheet,
   Text,
   TextInput,
@@ -19,6 +21,15 @@ const Login = ({navigation}) => {
 
   return (
     <Container>
+      <StatusBar
+        barStyle={
+          Appearance.getColorScheme() == 'dark'
+            ? 'light-content'
+            : 'dark-content'
+        }
+        translucent
+        backgroundColor={'#FFCC00'}
+      />
       <Content style={styles.headingContainer}>
         <SafeAreaView>
           <Row style={{height: 100, marginHorizontal: 10, marginTop: 10}}>
