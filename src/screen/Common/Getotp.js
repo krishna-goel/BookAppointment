@@ -10,16 +10,40 @@ import React from 'react';
 import {Col, Container, Content, Row} from 'native-base';
 import {KeyUtility} from 'constent/KeyUtility';
 import {Header} from 'components';
+import {useGetPokemonByNameQuery} from '../Api/index';
+import OTPInputView from '@twotalltotems/react-native-otp-input';
 
-const Getotp = ({navigation}) => {
-  const onLogin = () => {
-    console.log('submit');
-    navigation.navigate(KeyUtility.APPOINTMENT);
+const Getotp = ({navigation, route}) => {
+  const {data, isLoading} = useGetPokemonByNameQuery();
+  const {phoneNumber} = route.params;
+
+  const checkVerification = async (phoneNumber, code) => {
+    try {
+      const data = JSON.stringify({
+        to: phoneNumber,
+        code,
+      });
+      const BASE_URL = 'https://verify-1234-abcdef.twil.io'
+      const response = await fetch(`${BASE_URL}/check-verify`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: data,
+      });
+   
+      const json = response;
+      console.log('resp',json);
+      return json.success;
+    } catch (error) {
+      console.error(error);
+      return false;
+    }
   };
 
   return (
     <Container>
-      <Header hasBackButton/>
+      <Header hasBackButton container={styles.header} />
       <Content style={styles.headingContainer}>
         <Row style={{height: 100, marginHorizontal: 10, marginTop: 10}}>
           <Col size={3}>
@@ -37,7 +61,7 @@ const Getotp = ({navigation}) => {
         <View style={{marginTop: 7, width: '40%'}}>
           <Text style={styles.loginText}>OTP</Text>
         </View>
-        <View style={{marginTop: 44, paddingHorizontal: 16}}>
+        <View style={{paddingHorizontal: 16}}>
           <TextInput
             placeholder="Verify Otp"
             style={{
@@ -49,8 +73,25 @@ const Getotp = ({navigation}) => {
             }}
             placeholderTextColor="#172B4D"
           />
+          <OTPInputView
+            style={{width: '80%', height: 200, paddingLeft: 16}}
+            pinCount={6}
+            autoFocusOnLoad
+            codeInputFieldStyle={styles.underlineStyleBase}
+            codeInputHighlightStyle={styles.underlineStyleHighLighted}
+            onCodeFilled={code => {
+              console.log('code', code);
+              checkVerification(phoneNumber, code);
+              // .then(success => {
+              //   if (!success) setInvalidCode(true);
+              //   success && navigation.replace('Gated');
+              // });
+            }}
+          />
         </View>
-        <TouchableOpacity style={styles.loginBtn} onPress={() => onLogin()}>
+        <TouchableOpacity
+          style={styles.loginBtn}
+          onPress={() => checkVerification(phoneNumber)}>
           <Text style={{color: 'white', fontSize: 17}}>Get started</Text>
         </TouchableOpacity>
       </Content>
@@ -61,6 +102,9 @@ const Getotp = ({navigation}) => {
 export default Getotp;
 
 const styles = StyleSheet.create({
+  header: {
+    height: 60,
+  },
   headingContainer: {
     height: '100%',
     backgroundColor: '#FFCC00',
@@ -87,4 +131,15 @@ const styles = StyleSheet.create({
     borderRadius: 8,
   },
   appTitle: {fontSize: 30, color: 'black', fontWeight: 'bold'},
+  underlineStyleBase: {
+    width: 30,
+    height: 45,
+    borderWidth: 0,
+    borderBottomWidth: 1,
+    color: 'black',
+    fontSize: 20,
+  },
+  underlineStyleHighLighted: {
+    borderColor: '#03DAC6',
+  },
 });

@@ -1,10 +1,15 @@
 import {StyleSheet, Text, View} from 'react-native';
 import React from 'react';
 import Router from 'navigation/Router';
-import Login from 'screen/Common/Login';
+import {Provider} from 'react-redux';
+import {store} from 'store';
 
 const App = () => {
-  return <Router />;
+  return (
+    <Provider store={store}>
+      <Router />
+    </Provider>
+  );
 };
 
 export default App;
